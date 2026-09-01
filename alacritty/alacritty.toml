@@ -1,0 +1,12 @@
+[general]
+import = ["~/.config/alacritty/themes/solarized_dark.toml"]
+
+[scrolling]
+history = 100000
+
+[font]
+normal = { family = "GoogleSansCode Nerd Font", style = "Regular" }
+size = 12
+
+[cursor]
+style = { shape = "Block", blinking = "Always" }
