@@ -1,0 +1,12 @@
+#:schema https://docs.jj-vcs.dev/latest/config-schema.json
+
+[user]
+name = "Nick Welna"
+email = "welnanick@gmail.com"
+
+[ui]
+diff-formatter = ":git"
+conflict-marker-style = "git"
+paginate = "never"
+editor = "vim"
+merge-editor = "vimdiff"
