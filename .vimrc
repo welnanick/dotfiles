@@ -1,3 +1,5 @@
+set title " Enable updating the terminal title
+set titleold= " Clear the old title string on exit so Zsh can cleanly take back control
 set scrolloff=3         " keep 3 lines when scrolling
 set ai                  " set auto-indenting on for programming
  
